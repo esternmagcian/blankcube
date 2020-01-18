@@ -1,11 +1,5 @@
 ## Esternmagcian’s pesronal space
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 一个完整的视频APP源码,服务器代码,和客户端代码都有,SQL库自己导 进就可以看到...博客源码,不错的博客源码,移动、电脑端自适应,免费可用,开源。 下载 在线视...
